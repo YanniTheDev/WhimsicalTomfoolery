@@ -27,3 +27,11 @@
 }
 
 /* FONTS */
+.segoe-ui {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+/* COMMON COLOURS */
+.hack-green {
+    color: rgb(0, 140, 30);
+}

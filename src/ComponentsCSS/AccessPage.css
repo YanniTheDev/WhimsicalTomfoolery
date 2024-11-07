@@ -1,0 +1,35 @@
+.access-page-container {
+    /* Flex styles in Reusables.css */
+    gap: 2vh;
+
+    width: 100vw;
+    height: 100vh;
+
+    background-color: black;
+}
+
+.title {
+    margin-top: 2vh;
+    margin-bottom: 10vh;
+
+    font-size: 8vh;
+}
+
+.header {
+    margin-bottom: 10vh;
+}
+
+input {
+    margin-bottom: 5vh;
+
+    padding: 2vh 2vh;
+
+    background-color: black;
+
+    border: solid;
+    border-width: 0.25vh 0.25vh;
+
+    border-color: rgb(0, 140, 30);
+
+    color: rgb(0, 140, 30);
+}
