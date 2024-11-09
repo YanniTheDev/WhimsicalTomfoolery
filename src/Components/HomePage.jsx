@@ -1,3 +1,8 @@
+import "../ReusableStyles/Flex.css";
+import "../ReusableStyles/Fonts.css";
+
+import "../ComponentsCSS/HomePage.css";
+
 export const HomePage = () => {
     return (
         <div className="home-container flex-s-c flex-dir-col">

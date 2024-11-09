@@ -1,4 +1,6 @@
-import "../Reusables.css";
+import "../ReusableStyles/Flex.css";
+import "../ReusableStyles/Fonts.css";
+
 import "../ComponentsCSS/AccessPage.css";
 
 export const AccessPage = () => {
