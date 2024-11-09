@@ -9,11 +9,11 @@ import { HomePage } from './Components/HomePage.jsx';
 
 function App() {
   return (
-    <>
+    <div className="content">
       {/* <AccessPage /> */}
 
       <HomePage/>
-    </>
+    </div>
   )
 }
 

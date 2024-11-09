@@ -55,6 +55,8 @@ table {
 	border-spacing: 0;
 }
 
-.app {
+.content {
 	height: 100vh;
+
+	background: rgb(28, 28, 28);
 }

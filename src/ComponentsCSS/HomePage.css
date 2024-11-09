@@ -1,6 +1,33 @@
+.title-container {
+    height: 20vh;
+    width: 100vw;
+
+    background-color: rgb(255, 35, 35);
+
+    border-bottom: solid rgb(89, 4, 4) 0.75vw;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+}
+
 .title {
     margin-top: 4vh;
-    margin-bottom: 10vh;
+    margin-bottom: 4vh;
     
     font-size: 8vh;
+
+    color: rgb(57, 12, 12);
+}
+
+.messages {
+    margin-top: 10vh;
+    padding: 2vw;
+
+    width: 80vw;
+    height: 20vh;
+
+    background-color: rgba(0, 0, 0, 0.2);
+}
+
+.messages p {
+    color: white;
 }
