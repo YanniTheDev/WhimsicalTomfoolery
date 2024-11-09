@@ -1,5 +1,6 @@
 import "../ReusableStyles/Flex.css";
 import "../ReusableStyles/Fonts.css";
+import "../ReusableStyles/Colours.css";
 
 import "../ComponentsCSS/HomePage.css";
 
